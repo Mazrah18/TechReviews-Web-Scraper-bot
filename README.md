@@ -13,4 +13,5 @@ Navigate to the directory containing the ‘TechReviews.py’file using the comm
 First step is to move the python file to the ‘spiders’ folder location of the scrapy with all the necessary dependencies of the default scrapy installed.
 Run the python file using the following command:
 “scrapy crawl pcmag” which will prompt  the crawler to start scraping the data from the webpages.  	
+
 AFter running the scrapy crawler, the resultant scraped data will be collected in the ‘data.csv’ file.
